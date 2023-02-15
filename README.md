@@ -35,7 +35,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 **Mail Service:** [Sendgrid](https://sendgrid.com/)
 
 
-## OTHER TESCH STACK USED:
+## OTHER TECH STACK USED:
  ~ redux
  ~ node js
  ~ mongodb
