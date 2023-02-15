@@ -4,7 +4,6 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 ![full-stack-commerce-thumb](https://user-images.githubusercontent.com/93249038/218923624-c0224412-d770-4d93-8249-39927d2e2188.png)
 
-![1](https://user-images.githubusercontent.com/93249038/218923597-913bc661-38ba-48f8-b49c-1c1480c18018.jpg)
 
 
 ## 🖥️ Tech Stack
@@ -60,3 +59,4 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 
 
+![jpg](https://user-images.githubusercontent.com/93249038/218924003-d0b0af8f-d789-44ea-b885-2115b8d1fd33.jpg)
