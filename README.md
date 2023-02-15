@@ -34,6 +34,16 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 **Image Management:** [Cloudinary](https://cloudinary.com/)
 **Mail Service:** [Sendgrid](https://sendgrid.com/)
 
+
+## OTHER TESCH STACK USED:
+ ~ redux
+ ~ node js
+ ~ mongodb
+ ~ redux-thunk
+ ~ paytm payment Gateway
+ ~ Heroku Deployment
+
+
 ## 🚀 Features
 - Login/Signup User Account
 - Update Profile/Password User Account
